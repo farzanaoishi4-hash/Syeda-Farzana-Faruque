@@ -18,9 +18,9 @@
 - **Concepts:** Data modeling, Data quality, Master data management, Data governance
 
 ## Featured projects
-🚧 Projects coming soon. I'm currently building:
-- Data cleaning showcase (Python, pandas)
-- SQL practice portfolio (PostgreSQL)
+| Project | Description |
+|---------|-------------|
+| [Data Cleaning Showcase](https://github.com/farzanaoishi4-hash/data-cleaning-showcase) | Cleaned a messy e-commerce dataset with Python and pandas, with documented before and after results |
 
 ## Let's connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/syeda-farzana-faruque-32563a121/)
